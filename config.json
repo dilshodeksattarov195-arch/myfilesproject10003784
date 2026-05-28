@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesalidate",
+        "uuid": 21962336,
+        "checksum": "281i9e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
